@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.vst.serviceschecker</groupId>
 	<artifactId>ServicesChecker</artifactId>
-	<version>1.0.1</version>
+	<version>1</version>
 	<name>ServicesChecker</name>
 	<description>ApiServicesChecker</description>
 	<properties>
